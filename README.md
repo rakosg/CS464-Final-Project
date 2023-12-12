@@ -4,4 +4,4 @@ I learned about OBS Studio's audio editing capabilities and was very impressed b
 
 - This documentation is written to be able to be a standalone knowledge base in OBS Studio's records if desired
 - It is also using OBS Studio's formatting so it can seamlessly be added to existing OBS documentation. 
-- This documentation is intended to be added to https://obsproject.com/kb/audio-mixer-guide but as stated above, it is designed to be added to the audio mixer guide documentation.
+- This documentation is intended to be added to https://obsproject.com/kb/audio-mixer-guide if possible.
